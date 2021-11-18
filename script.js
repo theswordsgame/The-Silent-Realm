@@ -6,12 +6,12 @@ if (
     var windowFeatures = "popup";
     console.log("lololololololol");
     window.open(
-      "https://the-silent-realm.glitch.me/2.html",
+      "https://example.com/2.html",
       "Rip",
       windowFeatures
     );
     window.open(
-      "https://the-silent-realm.glitch.me/2.html",
+      "https://example.com/2.html",
       "Rip",
       windowFeatures
     );
