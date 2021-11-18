@@ -6,7 +6,7 @@ A prank computer lagger diguised as a game.
 To run this "game' you have to follow these steps.
 
 # Step 1
-Run the script.js file or (for a easier method) you can go to https://sumo.app/code and copy and paste the code from script.js.
+Run the script.js file or (for a more beginner friendly method) you can copy the code here https://raw.githubusercontent.com/theswordsgame/The-Silent-Realm/main/script.js and paste it into here https://sumo.app/code/.
 
 # Step 2
 Follow the onscreen instructions and enjoy the chaos.
