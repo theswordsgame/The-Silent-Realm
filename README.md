@@ -9,7 +9,10 @@ To run this "game' you have to follow these steps.
 Unblock popups for https://the-silent-realm.glitch.me/ and unblock popups for the html.
 
 # Step 2
-Download and run the html file
+Download the html file by going to code then to download zip and then just unzip the zip.
 
 # Step 3
+run the html file.
+
+# Step 4
 Follow the onscreen instructions and enjoy the chaos.
