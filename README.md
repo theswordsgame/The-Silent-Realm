@@ -16,3 +16,5 @@ Run the html file.
 
 # Step 4
 Follow the onscreen instructions and enjoy the chaos.
+
+Report bugs and request features at the issues tab.
